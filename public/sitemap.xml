@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://resolve_qc.github.io/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/post/</loc>
+    <lastmod>2020-10-29T16:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/</loc>
+    <lastmod>2020-10-29T16:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/post/second/</loc>
+    <lastmod>2020-10-29T16:53:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/categories/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/tags/css/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/tags/html/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/post/my-first-post/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/categories/syntax/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/tags/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/tags/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/categories/themes/</loc>
+    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resolve_qc.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
